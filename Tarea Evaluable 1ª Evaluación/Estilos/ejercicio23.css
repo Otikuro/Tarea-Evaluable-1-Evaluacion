@@ -1,0 +1,23 @@
+hr {
+    size: 2px;
+    color: black;
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+td {
+    padding: 20px;
+}
+
+td.par {
+    background-color: greenyellow;
+}
+
+td.impar {
+    background-color: red;
+}

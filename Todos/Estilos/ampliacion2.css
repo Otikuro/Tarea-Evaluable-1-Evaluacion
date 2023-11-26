@@ -1,0 +1,31 @@
+form {
+	width: 400px;
+	padding: 16px;
+	border-radius: 10px;
+	margin: auto;
+	background-color: #dafffd;
+}
+
+form label {
+	width: 200px;
+	font-weight: bold;
+	display: inline-block;
+}
+
+
+form input[type="number"] {
+	width: 50px;
+	padding: 8px 4px;
+	margin-top: 5px;
+	border-radius: 5px;
+	background-color:#fff;
+	color: black;
+} 
+
+form input[type="submit"] {
+	display: absolute;
+	margin-top: 2%;
+	margin-left: 45%;
+	border: solid 1px black;
+	background-color: #fff;
+} 
